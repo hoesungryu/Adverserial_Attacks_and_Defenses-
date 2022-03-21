@@ -25,5 +25,5 @@ Based on this [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=82941
 https://github.com/Jeffkang-94/pytorch-adversarial-attack
  
 ## Reference
-[1] Explaining and Harnessing Adversarial Examples, Ian J. Goodfellow, et. al.,  ICLR 2015
+[1] Explaining and Harnessing Adversarial Examples, Ian J. Goodfellow, et. al.,  ICLR 2015 <p>
 [2] Towards Deep Learning Models Resistant to Adversarial Attacks, Aleksander M ˛adry, et. al. 2019 https://arxiv.org/abs/1706.06083
